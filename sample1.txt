@@ -1,0 +1,4 @@
+This is the first gitproject
+Entering into the world of git
+This is gonna be fun
+Gonna explore git commands today
